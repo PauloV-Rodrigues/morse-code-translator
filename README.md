@@ -21,7 +21,7 @@ no Instituto Federal de Educação, Ciência e Tecnologia do Ceará — Campus d
 ![Homepage](https://github.com/PauloV-Rodrigues/morse-code-translator/blob/master/screenshots/homepage.png)
 
 ### Tradução
-![Translation](hhttps://github.com/PauloV-Rodrigues/morse-code-translator/blob/master/screenshots/translation.png)
+![Translation](https://github.com/PauloV-Rodrigues/morse-code-translator/blob/master/screenshots/translation.png)
 
 # Contato
 [Linkedin](https://www.linkedin.com/in/ro-paulo/) | [Instagram](https://www.instagram.com/_paulo.86)
