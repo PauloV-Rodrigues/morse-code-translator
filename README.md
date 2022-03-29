@@ -1,7 +1,7 @@
 
 # Morse Code Translator
 O Tradutor de Código Morse é resultado de uma atividade avaliativa da disciplina de
-Sistemas Operacionais de Redes I do 7° Semestre do Curso Técnico Intergrado em Informática
+Sistemas Operacionais de Redes I do 7° Semestre do Curso Técnico Integrado em Informática
 no Instituto Federal de Educação, Ciência e Tecnologia do Ceará — Campus de Fortaleza.
 
 # Sumário
